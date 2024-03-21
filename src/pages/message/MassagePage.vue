@@ -48,7 +48,7 @@
         </template>
         <template #icon>
             <div class="icon_area">
-                <van-image src="../../public/juyuan.ico" width="25" height="25" round
+                <van-image src="../../public/juyuan.jpg" width="25" height="25" round
                            style="margin-left: 12px;margin-top: 12px"/>
             </div>
         </template>

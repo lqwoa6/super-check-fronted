@@ -2,6 +2,7 @@ import axios from "axios";
 import {showFailToast} from "vant";
 
 export const URL = 'localhost:8080/api';
+// export const URL = 'localhost:8080/api'; 改成线上地址
 
 let myAxios = axios.create({
     baseURL: 'http://' + URL
